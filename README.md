@@ -35,5 +35,5 @@
 
 [website]: https://Gabsop.github.io/portfolio/
 [instagram]: https://www.instagram.com/Gsodp/
-[linkedin]: https://www.linkedin.com/in/Gabsop/
+[linkedin]: https://www.linkedin.com/in/Gabrielsop/
 [email]: mailto:gabsop@hotmail.com
