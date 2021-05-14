@@ -21,9 +21,19 @@
 #### Connect with me:
 
 <!-- [<img align="left" alt="artursantiago | Website" src="https://img.shields.io/badge/Website-artursantiago-blue?style=flat-square&logo=google-chrome" />][website] -->
-[<img align="center" alt="GabrielSantana | Instagram" src="https://img.shields.io/badge/Instagram-Gsodp-blue?style=flat-square&logo=instagram" />]
-[<img align="center" alt="GabrielSantana | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Santana%20-blue?style=flat-square&logo=linkedin" />]
-[<img align="center" alt="GabrielSantana | Email" src="https://img.shields.io/badge/Email-gabsop@hotmail.com-blue?style=flat-square&logo=gmail" />]
+[<img align="center" alt="gabrielsantana | Instagram" src="https://img.shields.io/badge/Instagram-Gsodp-blue?style=flat-square&logo=instagram" />][instagram]
+[<img align="center" alt="gabrielsantana | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Santana%20-blue?style=flat-square&logo=linkedin" />][linkedin]
+[<img align="center" alt="gabrielsantana | Email" src="https://img.shields.io/badge/Email-gabsop@hotmail.com-blue?style=flat-square&logo=gmail" />][email]
 
 <br />
 <br />
+
+<!-- <img align="left" alt="artursantiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=artursantiago&show_icons=true&hide_border=true&hide=contribs&theme=dracula" /> -->
+<p align="center">
+  <img alt="gabrielsantana's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabsop&layout=compact&langs_count=6&hide_border=true&theme=dracula" />
+</p>
+
+[website]: https://Gabsop.github.io/portfolio/
+[instagram]: https://www.instagram.com/Gsodp/
+[linkedin]: https://www.linkedin.com/in/Gabsop/
+[email]: mailto:gabsop@hotmail.com
