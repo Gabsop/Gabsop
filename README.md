@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>Javascript, HTML, CSS, ReactJS, SQL</strong>
+  🚀 Skills: <strong>Javascript, HTML, CSS, ReactJS, SQL, C, C++</strong>
 </p>
 
 <p align="left">
