@@ -5,7 +5,7 @@
 <p align="left"> 
   <ul>
     <li>🎓 &nbsp; Studying Software Engineering at UFRN.</li>
-    <li>📘 &nbsp; Learning more about React And React Native</li>
+    <li>📘 &nbsp; Learning more about React and React Native</li>
     <li>❤️ &nbsp; Games | Series / Anime | Calisthenics</li>
   </ul>
 </p>
