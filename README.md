@@ -11,11 +11,14 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>Javascript, HTML, CSS, React, C, C++</strong>
+  🚀 Frontend: <strong>Javascript, Reactjs, Vuejs,HTML, CSS</strong>  
+</p>
+<p align="left">
+  💻 Backend: <strong>Node, Postgres, SQL</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Insomnia, Figma, Git and GitHub</strong>
+💼 Other skills: <strong>Dart, Microservices, Clean Arquitecture</strong>
 </p>
 
 #### Connect with me:
