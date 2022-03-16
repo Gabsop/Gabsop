@@ -14,7 +14,7 @@
   🚀 Frontend: <strong>Javascript, Reactjs, Vuejs,HTML, CSS</strong>  
 </p>
 <p align="left">
-  💻 Backend: <strong>Node, Postgres, SQL</strong>
+  💻 Backend: <strong>Node, Postgres, SQL, Java</strong>
 </p>
 
 <p align="left">
