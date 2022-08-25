@@ -24,7 +24,7 @@
 #### Connect with me:
 
 <!-- [<img align="left" alt="gabrielsantana | Website" src="https://img.shields.io/badge/Website-gabrielsantana-blue?style=flat-square&logo=google-chrome" />][website] -->
-[<img align="center" alt="gabrielsantana | Instagram" src="https://img.shields.io/badge/Instagram-Gsodp-blue?style=flat-square&logo=instagram" />][instagram]
+[<img align="center" alt="gabrielsantana | Instagram" src="https://img.shields.io/badge/Instagram-gabrielsantana.png-blue?style=flat-square&logo=instagram" />][instagram]
 [<img align="center" alt="gabrielsantana | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Santana%20-blue?style=flat-square&logo=linkedin" />][linkedin]
 [<img align="center" alt="gabrielsantana | Email" src="https://img.shields.io/badge/Email-gabsop@hotmail.com-blue?style=flat-square&logo=gmail" />][email]
 
