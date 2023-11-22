@@ -2,24 +2,17 @@
 
 <img src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" width="400px" align="right" alt="Computador Gabriel Santana">
 
+<p align="left">
+  Software Engineer | Frontend Developer | ReactJS, React Native, Typescript, NextJS
+</p>
+
 <p align="left"> 
   <ul>
     <li>🎓 &nbsp; Studying Software Engineering at UFRN.</li>
     <li>📘 &nbsp; Learning more about React and React Native</li>
     <li>❤️ &nbsp; Games | Series / Anime | Calisthenics</li>
   </ul>
-</p>
-
-<p align="left">
-  🚀 Frontend: <strong>Javascript, Reactjs, Vuejs,HTML, CSS</strong>  
-</p>
-<p align="left">
-  💻 Backend: <strong>Node, Postgres, SQL, Java</strong>
-</p>
-
-<p align="left">
-💼 Other skills: <strong>Dart, Microservices, Clean Arquitecture</strong>
-</p>
+</p> 
 
 #### Connect with me:
 
