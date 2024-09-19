@@ -25,9 +25,9 @@
 <br />
 
 <!-- <img align="left" alt="gabrielsantana's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielsantana&show_icons=true&hide_border=true&hide=contribs&theme=dracula" /> -->
-<p align="center">
+<!-- <p align="center">
   <img alt="gabrielsantana's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabsop&layout=compact&langs_count=6&hide_border=true&theme=dracula" />
-</p>
+</p> -->
 
 [website]: https://Gabsop.github.io/portfolio/
 [instagram]: https://www.instagram.com/gabrielsantana.png/
