@@ -6,14 +6,6 @@
   Software Engineer | Frontend Developer | ReactJS, React Native, Typescript, NextJS
 </p>
 
-<p align="left"> 
-  <ul>
-    <li>🎓 &nbsp; Studying Software Engineering at UFRN.</li>
-    <li>📘 &nbsp; Learning more about React and React Native</li>
-    <li>❤️ &nbsp; Games | Series / Anime | Calisthenics</li>
-  </ul>
-</p> 
-
 #### Connect with me:
 
 <!-- [<img align="left" alt="gabrielsantana | Website" src="https://img.shields.io/badge/Website-gabrielsantana-blue?style=flat-square&logo=google-chrome" />][website] -->
