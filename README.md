@@ -7,7 +7,7 @@
 </p>
 
 <p align="left"> 
- Hello! My name is Gabriel, and I’m a Software Developer with over 4 years of experience in the field.
+ Hello! My name is Gabriel, and I’m a Software Developer with over 5 years of experience in the field.
 
 Throughout my career, I've had the opportunity to work on a wide range of projects, ranging from developing web applications and mobile apps to creating a system for a Drug Research Nucleus. Today I lead a team of 4 developers in my current company.
 </p>
